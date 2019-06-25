@@ -1,0 +1,17 @@
+[
+    {
+        "imageUrl": "https://raw.githubusercontent.com/jhekasoft/flutter_demo/master/fake_api/1.jpg",
+        "title": "Проєкт з мостом",
+        "shortDesc": "Дуже цікавий проект"
+    },
+    {
+        "imageUrl": "https://raw.githubusercontent.com/jhekasoft/flutter_demo/master/fake_api/2.jpg",
+        "title": "Дерево",
+        "shortDesc": "Тут дерево"
+    },
+    {
+        "imageUrl": "https://raw.githubusercontent.com/jhekasoft/flutter_demo/master/fake_api/3.jpg",
+        "title": "Птахи",
+        "shortDesc": "Маленькі птахи"
+    }
+]
